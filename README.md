@@ -1,6 +1,6 @@
 # 💫 About Me:
 - 👋 Hi, I’m M Awais Faryad<br>- 👀 I’m a Software Developer<br>- 🌱 I’m currently learning backend in express js.<br>- 💞️ I’m looking to collaborate on real time react projects.<br>- 📫 How to reach me : through social media.<br>- 😄 Pronouns: He/him.<br>- ⚡ Fun fact: Creating, Designing,<br>
-
+[![MasterHead](https://media.licdn.com/dms/image/v2/D4D16AQGdCbTBxg93Qg/profile-displaybackgroundimage-shrink_350_1400/profile-displaybackgroundimage-shrink_350_1400/0/1735816436173?e=1742428800&v=beta&t=h_9eRGkg57KRoSugySNxCLqsZqLpBLVKomBbCbOskHc)](https://github.com/awaisfaryad25)
 
 ## 🌐 Socials:
 [![Behance](https://img.shields.io/badge/Behance-1769ff?logo=behance&logoColor=white)](https://behance.net/fxdesignz) [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/awaisfaryad25) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/awaiswolf) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/awaisfaryad) [![TikTok](https://img.shields.io/badge/TikTok-%23000000.svg?logo=TikTok&logoColor=white)](https://tiktok.com/@arainbadshah25) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/awaiswolf666) 
