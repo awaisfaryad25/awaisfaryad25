@@ -1,5 +1,4 @@
-# 💫 About Me:
-- 👋 Hi, I’m M Awais Faryad<br>- 👀 I’m a Software Developer<br>- 🌱 I’m currently learning backend in express js.<br>- 💞️ I’m looking to collaborate on real time react projects.<br>- 📫 How to reach me : through social media.<br>- 😄 Pronouns: He/him.<br>- ⚡ Fun fact: Creating, Designing,<br>
+
 [![MasterHead](https://media.licdn.com/dms/image/v2/D4D16AQGdCbTBxg93Qg/profile-displaybackgroundimage-shrink_350_1400/profile-displaybackgroundimage-shrink_350_1400/0/1735816436173?e=1742428800&v=beta&t=h_9eRGkg57KRoSugySNxCLqsZqLpBLVKomBbCbOskHc)](https://github.com/awaisfaryad25)
 
 ## 🌐 Socials:
