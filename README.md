@@ -11,9 +11,8 @@
 <img align="center" src="https://github-readme-activity-graph.vercel.app/graph?username=awaisfaryad25&theme=redical"/>
 
 # 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=awaisfaryad25&theme=merko&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=awaisfaryad25&theme=merko&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=awaisfaryad25&theme=merko&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+![](https://github-readme-stats.vercel.app/api?username=awaisfaryad25&theme=merko&hide_border=false&include_all_commits=false&count_private=false)
+![](https://github-readme-streak-stats.herokuapp.com/?user=awaisfaryad25&theme=merko&hide_border=false)
 
 ---
 [![](https://visitcount.itsvg.in/api?id=awaisfaryad25&icon=5&color=7)](https://visitcount.itsvg.in)
