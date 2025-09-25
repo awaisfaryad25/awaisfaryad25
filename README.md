@@ -1,5 +1,5 @@
 
-![MasterHead](https://github.com/awaisfaryad25/awaisfaryad25/blob/main/github-header-banner%20(1).png)
+![MasterHead](https://github.com/awaisfaryad25/awaisfaryad25/blob/main/header-banner.png)
 
 
 ## 🌐 Socials:
